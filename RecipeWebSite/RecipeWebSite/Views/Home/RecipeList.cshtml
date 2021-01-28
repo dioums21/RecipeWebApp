@@ -1,0 +1,65 @@
+﻿@model PaginatedList<Recipe>
+@{
+    ViewBag.Title = "List Of Recpes";
+}
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-success mt-2">@TempData["message"]</div>
+}
+
+<div class="card mt-4">
+    <h3 class="card-header text-center">Recipes</h3>
+
+    <form method="get" class="form-group text-right m-4" asp-action="RecipeList">
+        <label>Search recipes:</label>
+        <input type="text" name="searchString" value="@ViewData["searchString"]" />
+        <button type="submit" class="btn btn-outline-primary">Search</button>
+        <a class="btn btn-light" asp-action="RecipeList">Back</a>
+    </form>
+
+    <table class="table mt-4">
+
+        <thead>
+            <tr>
+                <th>Recipe Name</th>
+                <th class="text-right">Review Recipe</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (Recipe r in Model)
+            {
+                @await Html.PartialAsync("RecipeSummary", r)
+
+            }
+
+
+
+
+        </tbody>
+    </table>
+
+    @{
+        var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+        var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+    }
+
+    <div class="text-center m-2 p-2">
+        <a asp-action="RecipeList"          
+           asp-route-pageNumber="@(Model.PageIndex - 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-secondary @prevDisabled">
+            Previous
+        </a>
+        <a asp-action="RecipeList"          
+           asp-route-pageNumber="@(Model.PageIndex + 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-secondary @nextDisabled">
+            Next
+        </a>
+    </div>
+
+</div>
+

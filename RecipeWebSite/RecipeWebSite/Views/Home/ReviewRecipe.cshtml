@@ -1,0 +1,56 @@
+﻿@model  Review
+@{
+    ViewBag.Title = "Review Recipe";
+}
+
+
+        <div class="card p-2 mt-4">
+            <h1 class="card-header text-center">Tell us what you think!</h1>
+            <form class="p-a-1">
+                <div asp-validation-summary="All"></div>
+                <div class="form-group">
+
+                    <p>How would you rate the taste?</p>
+                    <label asp-for="Taste">1</label>
+                    <input asp-for="Taste" type="radio" value="1" />
+
+                    <label asp-for="Taste">2</label>
+                    <input asp-for="Taste" type="radio" value="1" />
+
+                    <label asp-for="Taste">3</label>
+                    <input asp-for="Taste" type="radio" value="1" />
+
+                    <label asp-for="Taste">4</label>
+                    <input asp-for="Taste" type="radio" value="1" />
+
+                    <label asp-for="Taste">5</label>
+                    <input asp-for="Taste" type="radio" value="1" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="EasyToMake">Was this easy to make?</label>
+                    <select class="form-control" asp-for="EasyToMake">
+                        <option value="">Choose yes or no</option>
+                        <option value="true">Yes</option>
+                        <option value="false">No</option>
+
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="WouldReccomend">Would you reccomend this to a friend?</label>
+                    <select class="form-control" asp-for="WouldReccomend">
+                        <option value="">Choose yes or no</option>
+                        <option value="true">Yes</option>
+                        <option value="false">No</option>
+
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Thoughts">Tell us what you thought of it!</label>
+                    <input class="form-control" asp-for="Thoughts" />
+                </div>
+                <div class="text-center">
+                    <button class="btn-primary" type="submit">Submit Review</button>
+                </div>
+            </form>
+        </div>
+   

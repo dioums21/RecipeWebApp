@@ -1,0 +1,50 @@
+﻿@model Recipe
+
+@{
+    ViewBag.Title = "Edit Recipe";
+}
+
+
+    <div class="card p-3 mt-3">
+
+        <h1 class="text-center card-header">Edit Recipe</h1>
+        <form asp-action="EditRecipe" method="post">
+
+            <input type="hidden" asp-for="RecipeId" />
+
+            
+            <div class="form-group">
+                <label asp-for="Name">Enter Your Recipe Name</label>
+                <div><span asp-validation-for="Name" class="text-danger"></span></div>
+                <input class="form-control" asp-for="Name" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Time">How many minutes does your recipe take to prepare?</label>
+                <div><span asp-validation-for="Time" class="text-danger"></span></div>
+                <input class="form-control" asp-for="Time" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Chef">Who created this recipe?</label>
+                <div><span asp-validation-for="Chef" class="text-danger"></span></div>
+                <input class="form-control" asp-for="Chef" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ingredients">Add the list of ingredients seperated by ","!</label>
+                <div><span asp-validation-for="Ingredients" class="text-danger"></span></div>
+                <input class="form-control" asp-for="Ingredients" multiple />
+
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description">Tell us about your recipe:</label>
+                <div><span asp-validation-for="Description" class="text-danger"></span></div>
+                <input class="form-control" asp-for="Description" />
+            </div>
+            <div class="text-center">
+                <button class="btn btn-outline-primary" type="submit">Save Changes</button>
+                <button class="btn btn-outline-primary" asp-action="Index" asp-controller="Home">Cancel</button>
+            </div>
+
+        </form>
+    </div>

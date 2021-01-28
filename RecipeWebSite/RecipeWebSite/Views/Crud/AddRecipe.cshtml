@@ -1,0 +1,14 @@
+﻿@model Recipe  
+
+@{ 
+    ViewBag.Title = "Add Recipe";
+}
+
+
+        <div class="card p-3 mt-3">
+            <h1 class="text-center card-header">Add your own recipe!</h1>
+
+            @await Html.PartialAsync("RecipeForm")
+            
+        </div>
+   

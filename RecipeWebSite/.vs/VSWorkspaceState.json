@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RecipeWebSite",
+    "\\RecipeWebSite\\Controllers",
+    "\\RecipeWebSite\\Models",
+    "\\RecipeWebSite\\Models\\ViewModel",
+    "\\RecipeWebSite\\Views",
+    "\\RecipeWebSite\\Views\\Home",
+    "\\RecipeWebSite\\Views\\Shared"
+  ],
+  "SelectedNode": "\\RecipeWebSite.sln",
+  "PreviewInSolutionExplorer": false
+}

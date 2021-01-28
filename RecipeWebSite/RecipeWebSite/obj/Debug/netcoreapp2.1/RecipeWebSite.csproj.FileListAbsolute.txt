@@ -1,0 +1,206 @@
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.deps.json
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.json
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.dev.json
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csprojAssemblyReference.cache
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cache
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfo.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cache
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.dll
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.input.cache
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.output.cache
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorCoreGenerate.cache
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CopyComplete
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeForm.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\AddRecipe.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\ViewRecipe.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\james\source\repos\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\EditRecipe.g.cshtml.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\appsettings.json
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\libman.json
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.deps.json
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.json
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.dev.json
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.dll
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csprojAssemblyReference.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfoInputs.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfo.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.input.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.output.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorCoreGenerate.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\AddRecipe.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\EditRecipe.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\ViewRecipe.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeForm.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cs
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.genruntimeconfig.cache
+C:\College\Semester 3\Web APPLICATION\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CopyComplete
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.deps.json
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.json
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.dev.json
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.dll
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csprojAssemblyReference.cache
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cache
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfo.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.input.cache
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.output.cache
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorCoreGenerate.cache
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\AddRecipe.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\EditRecipe.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\ViewRecipe.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeForm.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cache
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cs
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CopyComplete
+C:\Users\james\Desktop\Semester 3\Web Application Development\Project\Project\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\SearchRecipes.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.deps.json
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.json
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.dev.json
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.dll
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csprojAssemblyReference.cache
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cache
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfo.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.input.cache
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.output.cache
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorCoreGenerate.cache
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\AddRecipe.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\EditRecipe.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\ViewRecipe.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\SearchRecipes.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeForm.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cache
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cs
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\Users\james\Desktop\temp\RecipeWebSite+Search+PAGE\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CopyComplete
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csprojAssemblyReference.cache
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cache
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfo.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.deps.json
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.json
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.dev.json
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.dll
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.pdb
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.dll
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.input.cache
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.output.cache
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorCoreGenerate.cache
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\AddRecipe.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\EditRecipe.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\ViewRecipe.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeForm.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cache
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cs
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CopyComplete
+C:\Users\james\Desktop\RecipeWebSiteVersion4.0 - TESTCopy\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.deps.json
+H:\finalPres\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.json
+H:\finalPres\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.runtimeconfig.dev.json
+H:\finalPres\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.dll
+H:\finalPres\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.pdb
+H:\finalPres\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.dll
+H:\finalPres\RecipeWebSite\RecipeWebSite\bin\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csprojAssemblyReference.cache
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CoreCompileInputs.cache
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cache
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorAssemblyInfo.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfoInputs.cache
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.AssemblyInfo.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.input.cache
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.TagHelpers.output.cache
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorCoreGenerate.cache
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\AddRecipe.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\EditRecipe.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Crud\ViewRecipe.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeForm.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cache
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.RazorTargetAssemblyInfo.cs
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.Views.pdb
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.dll
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.pdb
+H:\finalPres\RecipeWebSite\RecipeWebSite\obj\Debug\netcoreapp2.1\RecipeWebSite.csproj.CopyComplete

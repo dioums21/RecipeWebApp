@@ -1,0 +1,36 @@
+﻿@model Recipe
+@{
+    ViewBag.Title = "Recipe Details";
+}
+
+
+
+        <div class="card p-2 mt-4">
+            <h1 class="card-header text-center mt-1 mb-3 ml-1 mr-1">@Model.Name</h1>
+            
+            <p class="m-2">Prep time:  @Model.Time minutes</p>
+            <p class="m-2">Chef: @Model.Chef </p>
+            
+            <div class="card-body">
+                <p>Ingredients:</p>
+                <ul>
+                    
+                    @foreach (string ingredients in Model.Ingredients.Split(","))
+                    //goes through every ingredient in the ingredient list and add list item
+                    {
+                        <li>@ingredients</li>
+                    }
+                </ul>
+
+                <p>Description:</p>
+                <p>@Model.Description</p>
+            </div>
+            <div class="text-center text-black-50">
+                <form asp-action="DeleteRecipe" method="post">
+                    <input type="hidden" name="RecipeId" value="@Model.RecipeId" />
+                    <a class="btn-warning btn m-3 " asp-action="EditRecipe" asp-route-recipeId="@Model.RecipeId">Update Recipe</a>
+                    <button type="submit" class="btn-danger btn m-3" >Delete Recipe</button>
+                </form>
+            </div>
+        </div>
+    

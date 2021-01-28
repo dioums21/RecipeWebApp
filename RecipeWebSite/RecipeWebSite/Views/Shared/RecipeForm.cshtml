@@ -1,0 +1,35 @@
+﻿@model Recipe
+
+    <form class="p-a-1" asp-action="AddRecipe" asp-controller="Crud" method="post">
+        <div asp-validation-summary="All"></div>
+        <div class="form-group">
+            <label asp-for="Name">Enter Your Recipe Name</label>
+            <input class="form-control" asp-for="Name" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Time">How many minutes does your recipe take to prepare?</label>
+            <input class="form-control" asp-for="Time" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Chef">Who created this recipe?</label>
+            <input class="form-control" asp-for="Chef" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Ingredients">Add the list of ingredients seperated by ","!</label>
+            <input class="form-control" asp-for="Ingredients" multiple/>
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Description">Tell us about your recipe:</label>
+            <input class="form-control" asp-for="Description"  />
+        </div>
+        <div class="text-center">
+            <button class="btn btn-outline-primary" type="submit">Add Recipe</button>
+            <button class="btn btn-outline-primary" asp-action="Index" asp-controller="Home">Cancel</button>
+        </div>
+        
+            
+        
+    </form>

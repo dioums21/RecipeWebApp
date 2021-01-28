@@ -1,0 +1,6 @@
+﻿@model Recipe
+    <tr>
+        <td><a asp-action="ViewRecipe" asp-controller="Crud" asp-route-id="@Model.RecipeId">@Model.RecipeId - &nbsp;@Model.Name</a></td>
+        <td class="text-right"><a asp-action="ReviewRecipe" asp-controller="Home">Review this recipe</a></td>
+        
+    </tr>
